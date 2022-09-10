@@ -1,0 +1,29 @@
+Standards:
+  - Title: 02 Block 2 Understanding & Scoping
+    UID: ad657559-a3e0-4a24-88d5-fab8eb56dd4c
+    Description: Workshops to support foundations block.
+    SuccessCriteria:
+      - Unit has a config.yaml
+      - Unit has a lesson
+    DefaultVisibility: hidden
+    ContentFiles:
+      - Type: lesson
+        UID: 60b1b39c-91ec-4508-94e2-c23672245bf3
+        Path: /lessons/01 Unit 1 Workshop.md
+        DefaultVisibility: hidden
+      - Type: lesson
+        UID: cee7eed1-5719-4218-89a6-e1f9239516a9
+        Path: /lessons/02 Unit 2 Workshop.md
+        DefaultVisibility: hidden
+      - Type: lesson
+        UID: cd07fa5c-4598-4084-825c-e85696069727
+        Path: /lessons/03 Unit 3 Workshop.md
+        DefaultVisibility: hidden
+      - Type: lesson
+        UID: 24aac542-6b70-4062-80b1-0a0232a3703c
+        Path: /lessons/04 Unit 4 Workshop.md
+        DefaultVisibility: hidden
+      - Type: lesson
+        UID: a40a3fd9-def6-41f4-8f00-3ebb9527b3b6
+        Path: /lessons/05 Unit 5 Workshop.md
+        DefaultVisibility: hidden
